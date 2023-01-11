@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpaCalculator", "gpaCalculator\gpaCalculator.csproj", "{27C43E6F-29BF-469E-827E-0BB14CC3A8D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gpaCalculator", "gpaCalculator\gpaCalculator.csproj", "{27C43E6F-29BF-469E-827E-0BB14CC3A8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerDAL", "LayerDAL\LayerDAL.csproj", "{3EF5256C-6163-407B-AB78-596D22CC398A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{27C43E6F-29BF-469E-827E-0BB14CC3A8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27C43E6F-29BF-469E-827E-0BB14CC3A8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27C43E6F-29BF-469E-827E-0BB14CC3A8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF5256C-6163-407B-AB78-596D22CC398A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF5256C-6163-407B-AB78-596D22CC398A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF5256C-6163-407B-AB78-596D22CC398A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF5256C-6163-407B-AB78-596D22CC398A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
